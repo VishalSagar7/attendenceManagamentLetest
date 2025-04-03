@@ -1,6 +1,6 @@
 import React from 'react'
 
-import TeacherSidebar from '../teacherComponents/TeacherSidebar'
+import TeacherSidebar from '../teacherComponents/TeacherSidebar.jsx'
 import { Outlet } from 'react-router-dom'
 
 const TeacherHome = () => {
