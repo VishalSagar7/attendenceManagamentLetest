@@ -20,7 +20,7 @@ import { addSchoolInfo } from '../store/scoolInfo';
 import { addClassSubjects } from '../store/classSubjectSlice';
 
 
-const TeacherSidebar = () => {
+const MasterSidebar = () => {
 
   const navigate = useNavigate();
   const dispatch = useDispatch();
@@ -108,4 +108,4 @@ const TeacherSidebar = () => {
   )
 }
 
-export default TeacherSidebar;
+export default MasterSidebar;
