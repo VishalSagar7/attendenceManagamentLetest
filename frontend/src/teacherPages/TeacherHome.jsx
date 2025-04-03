@@ -11,4 +11,4 @@ const TeacherHome = () => {
   )
 }
 
-export default TeacherHome
+export default TeacherHome;

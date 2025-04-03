@@ -1,6 +1,6 @@
 import React from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import TeacherHome from './TeacherPages/TeacherHome';
+import TeacherHome from './teacherPages/TeacherHome';
 import StudentList from './teacherComponents/StudentList';
 import TeacherLogin from './teacherPages/TeacherLoginPage';
 import { useSelector } from 'react-redux';
